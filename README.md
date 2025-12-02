@@ -1,1 +1,3 @@
-# homework
+During the submission of this assignment, I encountered a technical difficulty with Git operations. Specifically, I was unable to push my code to the GitHub repository using the standard **git push** command. So i had to create new repository and upload my codes as a file. 
+
+About the code i tried my best to follow steps using notes i took from my udemy academy course while writing it.I did Home(test named in file) and about Page without any struggling, i used random related photos i found on internet. On Services page, it took my couple attemps to fully make table. The real challenge was the contact page, it took my most of time. Input statement was really hard for me since i didn't know fields well so I got little help of internet notes and ai to write input types. Other than that i did the rest by myself. 
